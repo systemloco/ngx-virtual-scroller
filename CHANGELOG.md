@@ -1,3 +1,19 @@
+# v13.3.3
+
+* @systemloco rearranged deps, hoping to remove the need to update for each progressive Angular version.
+
+# v13.3.2
+
+* @systemloco added Angular 13.3.2 support
+
+# v13.2.7
+
+* @systemloco added Angular 13.2.7 support
+
+# v13.0.1-13.0.3
+
+* @iharbeck added Angular 13 support
+
 # v4.0.3
 
 * Support for 1000000+ items
